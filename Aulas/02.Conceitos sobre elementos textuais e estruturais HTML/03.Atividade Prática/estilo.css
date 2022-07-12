@@ -1,0 +1,66 @@
+body{
+    background: rgb(212, 212, 212);;
+}
+
+aside {
+    background: rgb(218, 167, 176);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+    Geneva, Verdana, sans-serif;
+    padding: 30px;
+    padding-bottom: 100px;
+    float: inline-start;
+}
+
+section {
+    background: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: inline-end;
+    padding: 10px;
+    padding-bottom: 30px;
+    width: 500px;
+}
+
+.img{
+    width: 520px;
+    float: inline-start;
+}
+
+.link1 {
+    background: rgb(195, 92, 109);
+    border: 1px solid rgb(218, 167, 176);
+    text-align: center;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.link2 {
+    border: 1px solid rgb(195, 92, 109);
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+   
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+a {
+    text-decoration: none;
+} 
+
+.formt {
+    color: white;
+}
+
+.formt2{
+    color: rgb(195, 92, 109);
+}
+
+.d-flex{
+    display: flex;
+}

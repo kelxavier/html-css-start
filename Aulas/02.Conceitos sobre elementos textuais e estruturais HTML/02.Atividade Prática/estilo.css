@@ -1,0 +1,33 @@
+body {
+    width: 568px;
+    height: 1235px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #FFFFFF url("imagens/fundo.jpg");
+}
+
+.italico {
+    font-style: italic;
+}
+
+.imagem {
+    float:left;
+}
+
+.conteudo {
+    background: #FAFAFA;
+    margin-left: 10px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+#cabecalho {
+    text-align: center;
+    color: #403E3B;
+    font-style: bold;
+}
+
+#rodape {
+    padding: 10px;
+}
