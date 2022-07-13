@@ -1,0 +1,31 @@
+.d-flex {
+    display: flex;
+}
+
+.cancel-button{
+    color: white;
+    background-color: black;
+    padding: 0.5rem 1rem
+}
+
+.sep {
+  display: grid;
+  grid-template-areas: "lado1 lado2";  
+}
+
+.lado1 {
+  grid-area: lado1;  
+}
+
+.lado2 {
+    grid-area: lado2;
+    margin-right: auto;
+}
+
+.save-button{
+    margin-top: 1rem;
+}
+
+fieldset{
+  margin: 10rem;   
+}
