@@ -1,0 +1,11 @@
+*{
+    background:lightblue url(imagem/fundo.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: green;
+    color: white;
+}

@@ -1,0 +1,15 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-style: italic;
+}
+
+.first {
+    font: 30px;
+}
