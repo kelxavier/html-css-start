@@ -1,0 +1,41 @@
+.s-1 {
+    border: 5px solid green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.s-2 {
+    border: 5px dotted green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.s-3 {
+    border: 5px dashed green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.s-4 {
+    border: 5px double green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.s-4 {
+    border: 5px groove green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
+
+.s-5 {
+    border: 5px groove green;
+    margin: 5px;
+    padding: 10px;
+    width: 200px;
+}
